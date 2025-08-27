@@ -2,6 +2,9 @@
 
 This is a **free PHP API** that fetches live cryptocurrency data from [CoinGecko](https://www.coingecko.com/) and returns it in JSON format. The API provides the current price, market capitalization, 24-hour trading volume, and 24-hour price change percentage for multiple cryptocurrencies.
 
+You can access the live API here: [https://spelass.com/crypto/crypto.php](https://spelass.com/crypto/crypto.php)
+
+
 ---
 
 ## Features
